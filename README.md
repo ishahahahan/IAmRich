@@ -1,6 +1,6 @@
 # i_am_rich
 
-A new Flutter project.
+A new Flutter project to manifest to become rich.
 
 ## Getting Started
 
